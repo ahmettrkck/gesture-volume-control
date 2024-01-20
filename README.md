@@ -14,7 +14,8 @@ comtypes
 
 ## Installation
 
-To run this application, you need to install the required Python libraries. You can install these using pip:
+Install the required Python libraries using: 
+
 pip install opencv-python mediapipe pycaw comtypes
 
 
